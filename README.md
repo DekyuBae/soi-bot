@@ -1,9 +1,5 @@
-## Mau deploy?
-```
-Ambil session.json di termux & deploy seperti mendeploy rest api
-Dan module harus lengkap biar bisa run otomatis
-
-```
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DekyuBae/soi-bot/)
 
 ## CARA INSTALL
 
